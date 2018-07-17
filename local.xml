@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<layout>
+    <default>
+			<helloworld_index_index>
+					<reference name= "content">
+					<block type ="helloworld/view" name ="helloworld"/>
+			</helloworld_index_index>
+    </default>
+</layout>
